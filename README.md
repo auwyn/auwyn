@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @auwyn
-- 👀 I’m interested in ...becoming a data scientist.
-- 🌱 I’m currently learning ...python, statistics and R
-- 💞️ I’m looking to collaborate on ... various python and R projects
+- 👋 Hi, I’m @auwyn Adaptable...Unleashes Potential...Work Ethic...Yields Results...Navigating Challenges. 
+- 👀 I’m interested in ...becoming a cloud security engineer
+- 🌱 I’m currently learning ...various cybersecurity techniques, and AWS
+- GOAL FOR 2024: Obtain Six AWS CERTS.
 - 📫 How to reach me ... kindly email me at auw20@hotmail.com or add me on discord @ Poro Q#6708
 
 <!---
