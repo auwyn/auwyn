@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auwyn Adaptable...Unleashes Potential...Work Ethic...Yields Results...Navigating Challenges. 
-- 👀 I’m interested in ...becoming a cloud security engineer
+- 👀 I’m interested in ...becoming a SOC Analyst
 - 🌱 I’m currently learning ...various cybersecurity techniques, and AWS
-- GOAL FOR 2024: Obtain Six AWS CERTS.
+- GOAL FOR 2025: Become  SOC Analyst
 - 📫 How to reach me ... kindly email me at auw20@hotmail.com or add me on discord @ Poro Q#6708
 
 <!---
